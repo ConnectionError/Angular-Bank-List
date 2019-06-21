@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
+## AgGrid add to the project.
+this agGrid we need to install it with the command 
+## npm install --save ag-grid-community ag-grid-angular
+
+# Httpclient is needed for getting the data from the json.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
