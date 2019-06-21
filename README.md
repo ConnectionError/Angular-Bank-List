@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 this agGrid we need to install it with the command 
 ## npm install --save ag-grid-community ag-grid-angular
 
-# Httpclient is needed for getting the data from the json.
+## Httpclient is needed for getting the data from the json.
 
 ## Development server
 
